@@ -1,3 +1,6 @@
+
+###Shopimy - A shopify like ecommerce administration platform
+
 ## Features
 
 - **E-commerce Dashboard:** Manage your products, orders, and customers efficiently.
