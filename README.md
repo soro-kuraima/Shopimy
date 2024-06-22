@@ -1,5 +1,6 @@
 
 # Shopimy - A shopify like ecommerce administration platform
+## [Check it out](https://shopimy.onrender.com)
 
 ## Features
 
