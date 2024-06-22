@@ -1,5 +1,5 @@
 
-###Shopimy - A shopify like ecommerce administration platform
+### Shopimy - A shopify like ecommerce administration platform
 
 ## Features
 
